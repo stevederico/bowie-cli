@@ -16,7 +16,7 @@ bowie
 |----------|---------------------|-------------|---------|
 | Grok (xAI) | `XAI_API_KEY` | API key for Grok AI | `export XAI_API_KEY="your_grok_api_key"` |
 | Grok (xAI) | `XAI_MODEL` | Specific Grok model to use | `export XAI_MODEL="grok-4-0709"` |
-| Default Provider | `GROK_CLI_PROVIDER` | Set the default AI provider | `xai` | `export bowie_CLI_PROVIDER="xai"` |
+| Default Provider | `GROK_CLI_PROVIDER` | Set the default AI provider | `xai` | `export XAI_CLI_PROVIDER="xai"` |
 
 
 ## Examples
