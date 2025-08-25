@@ -1,6 +1,4 @@
 # bowie-cli
-<img width="719" height="432" alt="bowie-cli" src="https://github.com/user-attachments/assets/cd174977-c5cc-4f00-8dbd-3dde6697b7d8" />
-
 bowie CLI is an open-source interactive CLI tool that provides a flexible and powerful interface for AI-assisted workflows.
 
 ## Quick Start
@@ -69,4 +67,3 @@ This project is not an official product or initiative of xAI or Grok. It is an i
 
 ## Acknowledgments
 
-This project is based on and inspired by the excellent work from [Google's Gemini CLI](https://github.com/google-gemini/gemini-cli). We acknowledge and appreciate their foundational contributions to the open-source AI tooling ecosystem.
